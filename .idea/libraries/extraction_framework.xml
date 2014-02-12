@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="extraction-framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../workspace-idea/extraction-framework/classes/artifacts/extraction_jar/extraction.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

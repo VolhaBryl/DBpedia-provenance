@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="scala-compiler-9-3">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/jline.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scala-compiler.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scala-dbc.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scala-library.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scala-partest.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scala-swing.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scalacheck.jar!/" />
+      <root url="jar://C:/Program Files (x86)/scala-2.9.3/lib/scalap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,79 @@
+﻿http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Settlement	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/PopulatedPlace	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Place	2007-11-02T13:53:22Z	257827	Zopp
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Place	2007-11-02T13:53:22Z	257827	Zopp
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Thing	2007-11-02T13:53:22Z	257827	Zopp
+http://de.dbpedia.org/resource/Astana	http://xmlns.com/foaf/0.1/name	Астана	2010-02-17T21:48:29Z	24261	Aineias
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/cityType	Stadt mit Sonderstatus	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/foundingYear	1830	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.opengis.net/gml/_Feature	2008-08-12T13:27:20Z	334890	Eriosw
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/2003/01/geo/wgs84_pos#lat	51.166666666666664	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://www.w3.org/2003/01/geo/wgs84_pos#long	71.41666666666667	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://www.georss.org/georss/point	51.166666666666664 71.41666666666667	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/elevation	338.0	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/populationUrban	780880	2013-03-15T18:45:00Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/censusYear	0001	2013-03-14T23:25:35Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/area	7.1E8	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/PopulatedPlace/area	710.0	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/areaCode	7172	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/postalCode	010000-010015	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/vehicleCode	Z	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/leaderName	http://de.dbpedia.org/resource/Imanghali_Tasmaghambetow	2008-12-30T16:32:38Z	617422	Zebra848
+http://de.dbpedia.org/resource/Astana	http://dbpedia.org/ontology/individualisedGnd	4449241-8	2012-06-16T18:18:37Z	41221	AndreasPraefcke
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Settlement	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/PopulatedPlace	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Place	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Place	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Thing	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.opengis.net/gml/_Feature	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/2003/01/geo/wgs84_pos#lat	39.0	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.w3.org/2003/01/geo/wgs84_pos#long	32.0	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://www.georss.org/georss/point	39.0 32.0	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/province	http://de.dbpedia.org/resource/Ankara_(Provinz)	2012-05-26T09:06:35Z	1160488	Hephaion
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/elevation	938.0	2012-12-22T09:05:03Z	1282642	Jinafalera
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/areaUrban	2.498E9	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/PopulatedPlace/areaUrban	2498.0	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/populationUrban	4630735	2013-01-30T09:56:53Z	525965	Kpisimon
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/censusYear	2012	2013-01-28T14:38:30Z	188.107.94.31	
+http://de.dbpedia.org/resource/Ankara	http://dbpedia.org/ontology/leaderName	http://de.dbpedia.org/resource/Melih_Gökçek	2011-09-01T07:29:54Z	1285787	Ofa
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Country	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Country	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/PopulatedPlace	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Place	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Place	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Thing	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/officialLanguage	http://de.dbpedia.org/resource/Persische_Sprache	2011-12-11T17:24:32Z	1337615	Dr. Egalitarian
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/capital	http://de.dbpedia.org/resource/Kabul	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/areaTotal	6.5223E11	2011-12-09T21:47:54Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/PopulatedPlace/areaTotal	652230.0	2011-12-09T21:47:54Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/populationTotal	29800000	2011-12-24T16:17:58Z	324432	Gravitophoton
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/censusYear	2011	2011-12-24T16:17:58Z	324432	Gravitophoton
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/populationDensity	45.7	2011-12-09T21:47:54Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/PopulatedPlace/populationDensity	45.7	2011-12-09T21:47:54Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/currency	http://de.dbpedia.org/resource/Afghani	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/anthem	http://de.dbpedia.org/resource/Milli_Tharana	2009-10-11T17:48:36Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/timeZone	http://de.dbpedia.org/resource/UTC+4:30	2011-12-09T22:13:51Z	820808	Antemister
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/vehicleCode	AFG	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/topLevelDomain	.af	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://dbpedia.org/ontology/areaCode	+93	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.opengis.net/gml/_Feature	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/2003/01/geo/wgs84_pos#lat	33.0	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.w3.org/2003/01/geo/wgs84_pos#long	66.0	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Afghanistan	http://www.georss.org/georss/point	33.0 66.0	2009-02-09T10:01:12Z	628913	Laubbaum
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Settlement	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/PopulatedPlace	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Place	2008-05-18T11:36:44Z	91.7.38.72	
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Place	2008-05-18T11:36:44Z	91.7.38.72	
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Thing	2008-05-18T11:36:44Z	91.7.38.72	
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.opengis.net/gml/_Feature	2008-05-18T11:36:44Z	91.7.38.72	
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/2003/01/geo/wgs84_pos#lat	31.0	2011-01-23T09:25:06Z	671619	Pfieffer Latsch
+http://de.dbpedia.org/resource/Alexandria	http://www.w3.org/2003/01/geo/wgs84_pos#long	29.0	2008-05-18T11:36:44Z	91.7.38.72	
+http://de.dbpedia.org/resource/Alexandria	http://www.georss.org/georss/point	31.0 29.0	2011-01-23T09:25:06Z	671619	Pfieffer Latsch
+http://de.dbpedia.org/resource/Alexandria	http://xmlns.com/foaf/0.1/name	al-Iskandariyya — Alexandria	2013-01-02T09:04:57Z	294997	Ulamm
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/populationUrban	4317398	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/censusYear	2009	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/areaTotal	2.679E9	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/PopulatedPlace/areaTotal	2679.0	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/populationTotal	4545218	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/foundingYear	0330	2010-07-06T14:37:03Z	421144	Justus Brücke
+http://de.dbpedia.org/resource/Alexandria	http://dbpedia.org/ontology/leaderTitle	Gouverneur	2010-07-06T14:37:03Z	421144	Justus Brücke

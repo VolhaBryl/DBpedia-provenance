@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DBpedia-provenance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DBpedia_provenance_jar</output-path>
+    <root id="archive" name="DBpedia-provenance.jar">
+      <element id="module-output" name="DBpedia-provenance" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../workspace-idea/extraction-framework/classes/artifacts/extraction_jar/extraction.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/jline.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scala-compiler.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scala-dbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scala-partest.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scalacheck.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala-2.9.3/lib/scalap.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
